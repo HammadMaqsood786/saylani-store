@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.splash-main-div {
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1 {
+    width: 40%;
+    height: auto;
+    padding: 5px;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .splash-inner {
+    width: 40%;
+    height: 70%;
+    border: 1px solid red;
+} */
+
+.heading {
+    color: #61B846;
+}
+
+.sub-heading {
+    color: #024F9D;
+}
+
+.start-btn {
+    width: 8rem;
+    height: 4rem;
+    font-size: 2rem;
+    margin-top: 4rem;
+}

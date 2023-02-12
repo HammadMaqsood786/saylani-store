@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.user-home {
+    width: 100vw;
+    height: 100vh;
+    
+    margin:  auto ;
+
+}
+
+.top-header {
+    width: 70%;
+    height: 20%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.left-div {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-div {
+    width: 70%;
+    height: 60%;
+    margin: 0 auto;
+}
+
+.main-image {
+    width: 100%;
+    height: 100%;
+    border: none;
+    
+}
